@@ -1,0 +1,94 @@
+agecalc_adm
+height_cm_adm
+hr_bpm_adm
+glucose_mmolpl_adm
+diasbp_mmhg_adm
+weight_kg_adm
+sysbp_mmhg_adm
+rr_brpm_app_adm
+lactate_mmolpl_adm
+hematocrit_gpdl_adm
+temp_c_adm
+spo2site2_pc_oxi_adm
+deadchildren_adm
+spo2site1_pc_oxi_adm
+sqi2_perc_oxi_adm
+muac_mm_adm
+momage_adm
+sqi1_perc_oxi_adm
+bcseye_adm_Fails to watch or follow
+bcseye_adm_Watches or follows
+bcsverbal_adm_Cries appropriately with pain, or, if verbal, speaks
+bcsverbal_adm_Moan or abnormal cry with pain
+bcsverbal_adm_No vocal response to pain
+exclbreastfed_adm_1 month
+exclbreastfed_adm_2 months
+exclbreastfed_adm_3 months
+exclbreastfed_adm_4 months
+exclbreastfed_adm_5 months
+exclbreastfed_adm_6 months
+exclbreastfed_adm_Currently exclusively breastfed
+exclbreastfed_adm_More than 6 months
+exclbreastfed_adm_Unknown
+exclbreastfed_adm_never exclusively breastfed
+feedingstatus_adm_Feeding poorly
+feedingstatus_adm_Feeding well
+feedingstatus_adm_Not feeding at all
+watersource_adm_Bore hole
+watersource_adm_Fast running water
+watersource_adm_Municipal water
+watersource_adm_Open source (unprotected, stagnant water, dam)
+watersource_adm_Protected spring
+watersource_adm_Slow running water
+deliveryloc_adm_Clinic
+deliveryloc_adm_Health centre
+deliveryloc_adm_Home
+deliveryloc_adm_Hospital
+deliveryloc_adm_Other
+priorweekantimal_adm_Dont know
+priorweekantimal_adm_No
+priorweekantimal_adm_Yes
+malariastatuspos_adm_No
+malariastatuspos_adm_Yes
+vaccdpt_adm_0 doses
+vaccdpt_adm_1 dose
+vaccdpt_adm_2 doses
+vaccdpt_adm_3 doses
+vaccdpt_adm_Unknown
+waterpure_adm_No
+waterpure_adm_Yes
+sex_adm_Female
+sex_adm_Male
+respdistress_adm_No
+respdistress_adm_Yes
+birthdetail_adm___5_Checked
+birthdetail_adm___5_Unchecked
+birthdetail_adm___4_Checked
+birthdetail_adm___4_Unchecked
+vaccpneumoc_adm_0 doses
+vaccpneumoc_adm_1 dose
+vaccpneumoc_adm_2 doses
+vaccpneumoc_adm_3 doses
+vaccpneumoc_adm_Unknown
+birthdetail_adm___1_Checked
+birthdetail_adm___1_Unchecked
+birthdetail_adm___2_Checked
+birthdetail_adm___2_Unchecked
+birthdetail_adm___3_Checked
+birthdetail_adm___3_Unchecked
+oxygenavail_adm_Oxygen available and being used
+oxygenavail_adm_Oxygen available and not being used
+oxygenavail_adm_Oxygen available but not enough
+oxygenavail_adm_Oxygen not available
+symptoms_adm___3_Checked
+symptoms_adm___3_Unchecked
+priorweekabx_adm_Dont know
+priorweekabx_adm_No
+priorweekabx_adm_Yes
+bcsmotor_adm_Localizes painful stimulus
+bcsmotor_adm_No response or inappropriate response
+bcsmotor_adm_Withdraws limb from painful stimulus
+bcgscar_adm_No
+bcgscar_adm_Yes
+symptoms_adm___9_Checked
+symptoms_adm___9_Unchecked
